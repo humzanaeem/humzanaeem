@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**humzanaeem/humzanaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Humza Naeem and I’m a Computer Science student at Florida International University with experience building real world applications.  
+Skilled in Java, React, and Tailwind CSS, with hands on experience from hackathons, projects, and collaborative team environments.
 
-Here are some ideas to get you started:
+### What I’m working on
+- Building personal and academic software projects  
+- Improving problem solving and system design skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m learning
+- Backend development concepts  
+
+### Open to
+- Collaborating on student projects and hackathons  
+- Learning from other developers  
+
+### How to reach me
+- Email: humzanaeem.06@gmail.com
+
+Fun fact: I enjoy building things under pressure hackathons are my favorite challenge.
