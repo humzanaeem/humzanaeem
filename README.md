@@ -1,20 +1,28 @@
-## Hi there 👋
+# Hi, I'm Humza Naeem 👋
 
-My name is Humza Naeem and I’m a Computer Science student at Florida International University with experience building real world applications.  
-Skilled in Java, React, and Tailwind CSS, with hands on experience from hackathons, projects, and collaborative team environments.
+Computer Science student at **Florida International University** focused on building real-world applications. I work primarily with **Java**, **React**, and **Tailwind CSS**, and I've sharpened those skills through hackathons, personal projects, and collaborative team environments.
 
-### What I’m working on
-- Building personal and academic software projects  
-- Improving problem solving and system design skills  
+---
 
-### What I’m learning
-- Backend development concepts  
+### 🔭 Current Focus
+- Building personal and academic software projects
+- Strengthening my problem-solving and system design skills
 
-### Open to
-- Collaborating on student projects and hackathons  
-- Learning from other developers  
+### 🌱 Currently Learning
+- Backend development and server-side architecture
 
-### How to reach me
-- Email: humzanaeem.06@gmail.com
+### 🤝 Open To
+- Collaborating on student projects and hackathons
+- Connecting with and learning from other developers
 
-Fun fact: I enjoy building things under pressure hackathons are my favorite challenge.
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### 📫 Get in Touch
+[![Email](https://img.shields.io/badge/Email-humzanaeem.06%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:humzanaeem.06@gmail.com)
+
+---
+
+⚡ **Fun fact:** I do my best work under pressure, which is why hackathons are my favorite challenge.
